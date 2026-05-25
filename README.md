@@ -68,4 +68,3 @@ Total Problems Solved: 21
 # Goal for 2026
 - Become strong in DS&A
 - Reach internship-level problem solving
-- Prepare for big tech interviews
