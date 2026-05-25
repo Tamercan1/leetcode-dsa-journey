@@ -1,4 +1,4 @@
-# LeetCode + DS&A Journey
+# LeetCode + DSA Journey
 
 Tracking my progress in Data Structures & Algorithms using Python.
 
