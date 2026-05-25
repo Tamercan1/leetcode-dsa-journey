@@ -8,8 +8,7 @@ Tracking my progress in Data Structures & Algorithms using Python.
 
 ## Goals
 - Strengthen problem-solving skills
-- Master common interview patterns
-- Prepare for technical interviews
+- Master common leetcode patterns
 - Build consistency and pattern recognition
 
 ---
