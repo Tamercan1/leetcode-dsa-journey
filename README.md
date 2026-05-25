@@ -33,8 +33,7 @@ Total Problems Solved: 21
 ---
 
 # Current Focus
-- Tree DFS/BFS
-- Sliding Window mastery
+- Learn LeetCode patterns
 - Pattern recognition
 - Spaced repetition review
 
@@ -57,6 +56,7 @@ Total Problems Solved: 21
 - BFS
 - Binary Search
 - Linked List
+- Dynamic Programming
 
 ---
 
@@ -65,6 +65,6 @@ Total Problems Solved: 21
 
 ---
 
-# Goal for 2026
-- Become strong in DS&A
+# Current Goal
+- Become strong in DSA
 - Reach internship-level problem solving
