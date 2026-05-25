@@ -65,6 +65,6 @@ Total Problems Solved: 21
 
 ---
 
-# Current Goal
+# Goal for 2026
 - Become strong in DSA
 - Reach internship-level problem solving
