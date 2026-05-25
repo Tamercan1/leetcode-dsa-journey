@@ -27,7 +27,7 @@ Tracking my progress in Data Structures & Algorithms using Python.
 | Binary Search | 1 |
 | Two Pointers | 1 |
 
-Total Problems Solved: 21
+Total Problems Solved: 19
 
 ---
 
