@@ -18,17 +18,17 @@ Tracking my progress in Data Structures & Algorithms using Python.
 | Category | Solved |
 |---|---|
 | Arrays & Hashing | 5 |
+| Trees | 5 |
 | Sliding Window | 3 |
 | Stack | 2 |
-| Queue | 1 |
-| Trees | 3 |
 | Graphs | 2 |
 | Linked List | 2 |
+| Queue | 1 |
 | Binary Search | 1 |
 | Two Pointers | 1 |
 | Dynamic Programming | 1 |
 
-Total Problems Solved: 21
+Total Problems Solved: 23
 
 ---
 
