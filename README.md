@@ -28,7 +28,7 @@ Tracking my progress in Data Structures & Algorithms using Python.
 | Two Pointers | 1 |
 | Dynamic Programming | 1 |
 
-Total Problems Solved: 27
+Total Problems Solved: 25
 
 ---
 
