@@ -1,7 +1,19 @@
 """
-if both sides are non-null → current node is LCA
-if only one side is non-null → return that side
-if current node is p or q → return it immediately
+Problem: 235. Lowest Common Ancestor of the Binary Tree
+Pattern: Tree DFS
+Difficulty: Medium
+
+Key Idea:
+- Traverse the tree recursively using DFS
+- If current node is p or q, return it immediately
+- Recursively search left and right subtrees
+- If both left and right return non-null values,
+  the current node is the Lowest Common Ancestor
+- If only one side returns a node,
+  propagate that node upward
+
+Time Complexity: O(n)
+Space Complexity: O(h)
 """
 
 # Definition for a binary tree node.
